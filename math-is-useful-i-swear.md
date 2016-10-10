@@ -129,6 +129,7 @@ There are ~3.5x as many software developers than librarians. It's more probable 
 ### Availability Bias
 Events that are easier to recall seem more likely.
   - You're much more likely to be killed by a coconut than a shark
+
 ---
 ### Availability Bias
 Events that are easier to recall seem more likely.
