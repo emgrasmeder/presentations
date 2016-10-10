@@ -13,6 +13,7 @@ controls: true
 Emma Grasmeder, Mapbox math witch
 - @emma_gras
 - pronoun.is/they
+- 2016/10/08: Mapbox miniconf
 
 --
 
